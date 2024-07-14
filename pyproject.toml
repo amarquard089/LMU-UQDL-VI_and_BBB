@@ -2,7 +2,7 @@
 name = "uqdl"
 version = "0.1.0"
 description = ""
-authors = ["Alexander Marquard <alexandermarquard@kpmg.com>"]
+authors = ["Alexander Marquard <marquard82@googlemail.com>"]
 readme = "README.md"
 package-mode = false
 
